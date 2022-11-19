@@ -31,4 +31,5 @@ extract the files in the archive, `a.tar`
 print the details of all files in the archive, `a.tar`
 
 `mytar -c a`
+
 Error: No tarfile specified.
